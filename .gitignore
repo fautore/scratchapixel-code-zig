@@ -3,3 +3,7 @@
 *.pbm
 *.pdb
 fourier-transform/
+
+# added by this repo
+.zig-cache
+zig-out
