@@ -29,7 +29,7 @@ Unofficial [Scratchapixel](www.scratchapixel.com) website's [code repo](https://
 | introduction-polygon-mesh                      | ⏳     |
 | introduction-rendering                         | ⏳     |
 | introduction-to-lighting                       | ⏳     |
-| introduction-to-ray-tracing                    | ⏳     |
+| introduction-to-ray-tracing                    | 🔨     |
 | introduction-to-shading                        | ⏳     |
 | introduction-to-texturing                      | ⏳     |
 | matrix-inverse                                 | ⏳     |
