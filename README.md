@@ -1,9 +1,9 @@
 # ⚡⚡ scratchaplixel-code-zig ⚡⚡
 
-Unofficial [Scratchapixel](www.scratchapixel.com) website's [code repo](https://github.com/scratchapixel/scratchapixel-code) ported to the [Zig programming language](ziglang.org).
+Unofficial [Scratchapixel](https://www.scratchapixel.com) website's [code repo](https://github.com/scratchapixel/scratchapixel-code) ported to the [Zig programming language](https://ziglang.org).
 
 > [!NOTE]  
-> I am in no way affiliated to [scratchapixel.com](scratchapixel.com) and this repository's primary function is to learn graphics programming and the Zig programming language.
+> I am in no way affiliated to [scratchapixel.com](https://scratchapixel.com) and this repository's primary function is to learn graphics programming and the Zig programming language.
 
 # Status
 ## Legend
